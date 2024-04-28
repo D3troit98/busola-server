@@ -18,7 +18,9 @@ jobs:
           distribution: 'temurin'
           java-version: '11'
 
-      - name: Build and test
+      - name: Compile and test
         run: |
-          javac -cp .:lib/* -d out src/*.java
+          # Compile Java files from src/test directory
+          javac -cp .:lib/* -d out src/test/*.java
+          # Run tests
           java -cp .:lib/*:out org.junit.runner.JUnitCore test.ServerTest
