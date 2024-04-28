@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/byte-buddy-1.12.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/byte-buddy-agent-1.12.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/generics-resolver-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/mockito-core-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/mockito-scala_2.13-1.17.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/mockito-scala-scalatest_2.13-1.17.31.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/objenesis-3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/scalactic_2.13-3.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/scala-library-2.13.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/scala-parallel-collections_2.13-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/Downloads/scala/scala-reflect-2.13.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/eclipse-workspace/libs/bson-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/eclipse-workspace/libs/json-20240303.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/eclipse-workspace/libs/mongodb-driver-core-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/eclipse-workspace/libs/mongodb-driver-sync-5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/durua/eclipse-workspace/libs/slf4j-api-2.0.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
